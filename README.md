@@ -1,5 +1,5 @@
 # dd-mta-check
-Originally done for Datadog agent version 5 but now being updated for the latest version of the agent.
+Originally done for Datadog agent version 5 but now working for the latest version of the agent and for Python version 3.
 - This was designed as a custom Datadog integration to query for status on all the New York City subway lines.
 
 ![](https://imgix.datadoghq.com/img/blog/monitor-mta-status/mta-service-dash.png)
